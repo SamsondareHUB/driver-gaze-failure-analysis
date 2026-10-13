@@ -1,0 +1,4 @@
+assigned_condition,AUC-Judd,Shuffled AUC,NSS,CC,SIM
+blur,0.9958,0.9958,3.2249,0.8009,0.3939
+low_light,0.9921,0.992,2.9522,0.7471,0.3629
+normal,0.9999,0.9999,4.6084,0.983,0.6078
