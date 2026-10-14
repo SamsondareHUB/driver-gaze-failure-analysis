@@ -75,4 +75,4 @@ See:
 
 ## Intended contribution
 
-This project provides a failure-oriented evaluation framework for driver-gaze prediction. Its goal is not only to measure average alignment, but to identify the conditions under which AI attention becomes unreliable.
+This project provides a failure-oriented evaluation framework for driver-gaze prediction. Its goal is not only to measure average alignment, but to identify the conditions under which AI attention becomes unreliable. 
